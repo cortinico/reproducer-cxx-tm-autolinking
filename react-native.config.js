@@ -3,7 +3,7 @@ module.exports = {
     platforms: {
       android: {
         cxxModuleCMakeListsModuleName: "react-native-reproducer-cxx-tm-autolinking",
-        cxxModuleCMakeListsPath: "/Users/ncor/pg/RN074/node_modules/react-native-reproducer-cxx-tm-autolinking/android/CMakeLists.txt",
+        cxxModuleCMakeListsPath: "./CMakeLists.txt",
         cxxModuleHeaderName: "NativeCxxModuleExample"
       },
     },
